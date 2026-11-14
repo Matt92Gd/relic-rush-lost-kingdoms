@@ -1,0 +1,10 @@
+{
+  "name": "Relic Rush: Lost Kingdoms",
+  "short_name": "Relic Rush",
+  "description": "Avventura 3D endless runner tra templi, vulcani, città celesti, deserti e il regno delle ombre.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0b0f14",
+  "theme_color": "#d4a843"
+}

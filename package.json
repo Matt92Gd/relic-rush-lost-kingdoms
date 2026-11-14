@@ -1,0 +1,42 @@
+{
+  "name": "relic-rush-lost-kingdoms",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "RELIC RUSH: LOST KINGDOMS — Endless Runner 3D in Babylon.js, TypeScript e React con 5 Regni, generazione procedurale validata, 6 eroi personalizzabili e inseguimento di Malakor.",
+  "keywords": [
+    "babylonjs",
+    "endless-runner",
+    "3d-game",
+    "typescript",
+    "react",
+    "vite",
+    "webgl2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Matt92Gd/relic-rush-lost-kingdoms.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^7.0.0",
+    "@babylonjs/loaders": "^7.54.3",
+    "lucide-react": "^0.460.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "jsdom": "^25.0.1",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.5"
+  }
+}
